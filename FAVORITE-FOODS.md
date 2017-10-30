@@ -14,3 +14,7 @@
 [KevinLamb](https://github.com/KevinLamb)
 - Age: 20
 - Favorite Food: Pizza
+
+[tekkature](https://github.com/tekkature)
+- Age: 17
+- Favorite Food(s): pumpkin pie
